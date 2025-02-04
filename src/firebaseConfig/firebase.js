@@ -3,12 +3,12 @@ import { getAuth,createUserWithEmailAndPassword,signInWithEmailAndPassword,onAut
 import { getFirestore, collection, addDoc, getDocs  } from "firebase/firestore";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCNDiJdnOZ-uP__d8UBjpfdS5CMokwhpi0",
-    authDomain: "react-post-app-8860b.firebaseapp.com",
-    projectId: "react-post-app-8860b",
-    storageBucket: "react-post-app-8860b.firebasestorage.app",
-    messagingSenderId: "665139948988",
-    appId: "1:665139948988:web:693954c33951ca69a7cfb9"
+    apiKey: "AIzaSyBixDsF929D2g273AcjGq-E9sdoFdQnVhk",
+    authDomain: "new-receipe-dd8d7.firebaseapp.com",
+    projectId: "new-receipe-dd8d7",
+    storageBucket: "new-receipe-dd8d7.appspot.com",
+    messagingSenderId: "803719843645",
+    appId: "1:803719843645:web:7a623d7bb9077b80c43f54"
 };
 
 
